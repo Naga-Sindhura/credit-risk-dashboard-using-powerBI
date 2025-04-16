@@ -61,7 +61,7 @@ Analyzes borrower characteristics affecting loan risk.
 ## 📁 Project Files
 
 - `Credit_Risk_Dashboard.pbix` – Power BI Dashboard
-- `dashboard-page1.png`, `page2.png`, `page3.png` – Visual screenshots
+- `page1.jpg`, `page2.jpg`, `page3.jpg` – Visual screenshots
 - `README.md` – Project documentation (this file)
 - 'credit_risk_dataset' - Dataset
 
